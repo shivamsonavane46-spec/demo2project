@@ -1,0 +1,19 @@
+Git is a software and version control system
+it is used to stored different data stored
+it maintain the code
+
+It has 4 Section
+1.working directory
+2.a streching area
+3.local repositary server
+4.central repositary
+
+commands
+init --> intialization
+status --> to check status
+add --> to add data
+commit --> to changes commit
+clone --> find duplicate
+push --> used for send data from local to central repo 
+pull --> used for send data from cetral to local repo
+else --> to check the File 
