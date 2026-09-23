@@ -17,3 +17,6 @@ clone --> find duplicate
 push --> used for send data from local to central repo 
 pull --> used for send data from cetral to local repo
 else --> to check the File 
+
+for change the brach
+git branch -m branchname
